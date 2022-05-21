@@ -1,0 +1,13 @@
+n1 = int(input('Informe um número (inteiro): '))
+n2 = int(input('Informe outro número (inteiro): '))
+soma = n1 + n2
+mult = n1 * n2
+media = soma / 2
+exponencial = n1 ** 2
+cubo = n2 ** 3
+
+print('A soma dos dois valores é de: ',soma)
+print('A multiplicação entre os dois valores é de: ',mult)
+print('A média entre os dois valores é de: ',media)
+print('O exponencial do primeiro número é: ',exponencial)
+print('O resultado do segundo número elevado ao cubo é: ',cubo)
